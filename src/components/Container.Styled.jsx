@@ -5,6 +5,7 @@ export const Container = styled.div`
   padding: 15px;
   font: italic 1.2em 'Fira Sans', serif;
   background-color: beige;
+  width:780px;
 
   margin: 15px;
   color: cadetblue;
